@@ -1,0 +1,26 @@
+// Open Sans font
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+body {
+  background: #222;
+  color: white;
+  font-family: "Open Sans";
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.star-button {
+  background: white;
+  color: black;
+  padding: 15px 30px;
+  border-radius: 7px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 15px;
+}

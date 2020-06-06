@@ -1,0 +1,23 @@
+{
+  "name": "electron-html-css",
+  "version": "1.0.0",
+  "description": "A simple foundation for Electron-powered desktop apps, using HTML and CSS",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-delmo/electron-html-css.git"
+  },
+  "author": "g-delmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-delmo/electron-html-css/issues"
+  },
+  "homepage": "https://github.com/g-delmo/electron-html-css#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
