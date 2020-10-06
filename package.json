@@ -18,6 +18,6 @@
   "homepage": "https://github.com/g-delmo/electron-html-css#readme",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^9.0.2"
+    "electron": "^9.3.1"
   }
 }
